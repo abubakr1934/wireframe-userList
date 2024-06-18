@@ -1,0 +1,14 @@
+.main{
+    gap: 10px;
+    height: 515px;
+}
+.left-right{
+    height: 50%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.center{
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
