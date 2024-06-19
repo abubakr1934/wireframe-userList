@@ -21,7 +21,7 @@ const Header = () => {
           </li>
           <li>
             <a href="#" class="nav-link nav-size px-2">
-              My Reviews
+              Reviews
             </a>
           </li>
           <li>

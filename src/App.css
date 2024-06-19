@@ -1,0 +1,21 @@
+
+
+.main-container > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.main-container > div:nth-child(1) {
+  opacity: 1;
+}
+
+.main-container > div:nth-child(2) {
+  opacity: 0;
+}
+
+.main-container > div.show-login {
+  opacity: 1;
+}
